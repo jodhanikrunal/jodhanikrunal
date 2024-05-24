@@ -22,3 +22,6 @@
 
 <br><br>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/krunal_jodhani?ext=heatmap)
+
+<br><br>
+![CodeChef Stats](https://codechef-readme-stats.vercel.app/api?username=krunal_jodhani)
