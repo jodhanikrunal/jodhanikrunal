@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krunal Jodhani</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align"right" alt="coding" width="400" src="https://camo.githubusercontent.com/71611ea84eedcc22c3a27dd040649cabf32efc9b32d55d1ab5c16bfe349829c2/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966">
+<img align"left" alt="coding" width="400" src="https://camo.githubusercontent.com/71611ea84eedcc22c3a27dd040649cabf32efc9b32d55d1ab5c16bfe349829c2/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966">
 
 
 - 📫 How to reach me **jodhanikrunal1710@gmail.com**
